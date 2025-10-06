@@ -1,8 +1,3 @@
----
-layout: default
-title: Trevor Redford | UC San Diego Class of 2026
----
-
 # Trevor Redford | UC San Diego Class of 2026
 
 ![Trevor Redford](/assets/trevor-geisel.jpg)
