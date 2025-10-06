@@ -8,7 +8,7 @@
 
 ## B.S. in Biology with Specialization in Bioinformatics | Minor in Computer Science
 
-Motivated and detail-oriented Bioinformatics major at the top-ranked UC San Diego Bioinformatics Program, combining computational and laboratory expertise to address real biological questions. Experienced in HPLC-based plasmid purification, RNA-seq data analysis, and mRNA secondary structure modeling. Skilled in integrating molecular biology workflows with data analysis using Python, R, and Linux to support discovery and innovation in biotechnology research.
+Motivated and detail-oriented Bioinformatics major at the top-ranked UC San Diego Bioinformatics Program, combining computational and laboratory expertise to address real biological questions. Experienced in HPLC-based plasmid purification, RNA-seq data analysis, and mRNA secondary structure modeling. Skilled in integrating molecular biology workflows with data analysis using Python, R, and Linux to support discovery and innovation in biotechnology research. 
 
 ---
 
