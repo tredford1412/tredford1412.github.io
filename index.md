@@ -30,13 +30,11 @@ Integrated Python and machine learning to automate workout plans from user time/
 **mRNA Prediction Model — Arcturus Therapeutics** — *Jan 2025 – Mar 2025*  
 Built mRNA secondary-structure prediction pipelines using EternaFold, EternaBench, Arnie, ViennaRNA, and RNAfold in Linux/Python to support R&D. Streamlined evaluation of folding/stability to guide mRNA design.
 
-**CSE 185: Advanced Bioinformatics Lab — findPeaks Adaptation** — *March – May 2023*  
-Developed and demonstrated a multithreading Python tool implementing ChIP-seq peak-calling using transcription-factor data. Output BED files containing coordinates and p-values for each detected peak.
 
-**BENG 183: Applied Genomic Technologies — RNA-Seq Alignment** — *Nov – Dec 2022*  
+**BENG 183: Applied Genomic Technologies — RNA-Seq Alignment** — *Nov – Dec 2024*  
 Co-presented a lecture on RNA-seq alignment tools STAR and TopHat2. Compared alignment efficiency and computational performance between methods.
 
-**BIMM 143: Introductory Bioinformatics Lab — Find-A-Gene Project** — *Oct – Dec 2022*  
+**BIMM 143: Introductory Bioinformatics Lab — Find-A-Gene Project** — *Jan – March 2025*  
 Analyzed the novel protein “Malate Dehydrogenase” from *Panagrolaimus* using multiple sequence alignment, heatmaps, phylogenetic trees, and 3-D structural modeling.
 
 ---
@@ -52,8 +50,6 @@ Characterized plasmid DNA isoforms via HPLC to guide IVT workflows. Contributed 
 **Research Assistant — Alotaibi Lab, UC San Diego** — *Feb 2024 – Jun 2025*  
 Performed metabolomics and biomarker analyses (mass spectrometry) for CTEPH. Analyzed complex datasets with the team to identify therapeutic avenues. Obtained informed consent and coordinated blood sample collection with CTEPH patients at UCSD Jacobs Medical Center.
 
-**Lacrosse Coach — Carmel Valley Falcons** — *Feb 2022 – Present*  
-Organized 120+ practices and game plans (30–10 record). Emphasized player development, communication, and culture. Managed parents, officials, and logistics with calm conflict resolution.
 
 ---
 
@@ -63,8 +59,25 @@ Advanced Bioinformatics Lab (CSE 185) · Intro Bioinformatics Lab (BIMM 143) · 
 ---
 
 ## Awards
-- **Provost’s Honor Roll** — multiple terms  
-- **Academic Scholar-Athlete** — UCSD Men’s Lacrosse
+
+**Provost’s Honor Roll** | *UC San Diego* | *Fall 2021 – Present*  
+- Given to students who achieve above a 3.5 GPA for the quarter.
+
+**Academic Scholar-Athlete** | *UC San Diego Men’s Lacrosse Team* | *Spring 2022 – Spring 2025*  
+- Awarded to scholar-athletes who maintain a GPA above 3.25 during their sport’s active season.
+
+**Academic All-American** | *UC San Diego Men’s Lacrosse Team* | *Spring 2023 – Spring 2025*  
+- Earned All-Conference honors while maintaining a cumulative GPA above 3.2.
+
+**Team MVP & Defensive Player of the Year** | *UC San Diego Men’s Lacrosse Team* | *Spring 2024- Spring 2025*  
+- Recognized by teammates and coaches for leadership, defensive performance, and on-field impact.
+
+**All-Conference & All-American Honors** | *UC San Diego Men’s Lacrosse Team* | *2023 – 2025*  
+- Named to MCLA All-Conference and All-American teams for consistent excellence and leadership as a defender.
+
+**President & Captain** | *UC San Diego Men’s Lacrosse Team* | *2023 – Present*  
+- Led the team as both Captain and President, managing operations, team logistics, and leadership development.
+
 
 ---
 
