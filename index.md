@@ -28,37 +28,43 @@ Motivated and detail-oriented Bioinformatics major at the top-ranked UC San Dieg
 
 ## Projects
 
-**FitnessAI (Software Engineer Passion Project)** — *July 2025 – Present*  
-Integrated Python and machine learning to automate workout plans from user time/goal constraints. Currently building a mobile app (iOS/Android) with Swift + JavaScript and Python back end.
+**FitnessAI — Software Engineer Passion Project**   *July 2025 – Present*  
+Integrated Python and machine learning to automate personalized fitness routines based on user availability and goals.  
+Developing a mobile version (iOS + Android) using Swift and JavaScript for the front end and Python for the back end.
 
-**mRNA Prediction Model — Arcturus Therapeutics** — *Jan 2025 – Mar 2025*  
-Built mRNA secondary-structure prediction pipelines using EternaFold, EternaBench, Arnie, ViennaRNA, and RNAfold in Linux/Python to support R&D. Streamlined evaluation of folding/stability to guide mRNA design.
-
-
-**BENG 183: Applied Genomic Technologies — RNA-Seq Alignment** — *Nov – Dec 2024*  
-Co-presented a lecture on RNA-seq alignment tools STAR and TopHat2. Compared alignment efficiency and computational performance between methods.
-
-**BIMM 143: Introductory Bioinformatics Lab — Find-A-Gene Project** — *Jan – March 2025*  
-Analyzed the novel protein “Malate Dehydrogenase” from *Panagrolaimus* using multiple sequence alignment, heatmaps, phylogenetic trees, and 3-D structural modeling.
+**mRNA Prediction Model — Arcturus Therapeutics**   *Jan 2025 – Mar 2025*  
+Built mRNA secondary-structure prediction pipelines using EternaFold, EternaBench, Arnie, ViennaRNA, and RNAfold within Linux/Python.  
+Streamlined folding-stability evaluation workflows that supported experimental R&D design.
 
 ---
 
 ## Experience
 
-**Research Assistant — Herzik Lab, UC San Diego** — *Sept 2025 – Present*  
-Molecular cloning workflows (competent cells, bacterial transformation, Gibson Assembly, mini-preps); PCR, gels, DNA extraction to verify constructs for downstream biochemical and cryo-EM analysis. Assisted with cryo-EM sample prep and data collection toward mechanisms of organelle compartmentalization.
+**Research Assistant — Herzik Lab, UC San Diego**   *Sept 2025 – Present*  
+Performed molecular cloning workflows including competent-cell prep, bacterial transformation, Gibson Assembly, and plasmid DNA mini-preps to support structural-biology projects.  
+Executed PCR, gel electrophoresis, and DNA extractions to verify and optimize constructs for downstream biochemical and cryo-EM analysis.  
+Assisted with cryo-EM sample preparation and data collection to study molecular mechanisms of organelle compartmentalization.
 
-**Scientific Intern — Arcturus Therapeutics** — *Jun 2024 – Mar 2025*  
-Characterized plasmid DNA isoforms via HPLC to guide IVT workflows. Contributed to FLD-based impurity detection, built mRNA structure models, ran pDNA purification workflows, and managed multiple projects independently.
+**Scientific Intern — Arcturus Therapeutics (San Diego)**   *Jun 2024 – Mar 2025*  
+Characterized plasmid DNA isoforms with HPLC (maintenance, prep, analysis, reporting) to inform IVT workflows.  
+Developed mRNA secondary-structure models and contributed to a patent-stage impurity-detection project using fluorescence (FLD) methods.  
+Independently managed multiple projects, performing pDNA purification and data reporting to improve mRNA quality and reliability.
 
-**Research Assistant — Alotaibi Lab, UC San Diego** — *Feb 2024 – Jun 2025*  
-Performed metabolomics and biomarker analyses (mass spectrometry) for CTEPH. Analyzed complex datasets with the team to identify therapeutic avenues. Obtained informed consent and coordinated blood sample collection with CTEPH patients at UCSD Jacobs Medical Center.
+**Research Assistant — Alotaibi Lab, UC San Diego**   *Feb 2024 – Jun 2025*  
+Performed metabolomics and biomarker analyses using mass spectrometry to explore CTEPH disease mechanisms.  
+Collaborated with clinicians and data scientists to identify potential therapeutic targets through statistical analysis and data integration.  
+Engaged directly with patients at UCSD Jacobs Medical Center to obtain informed consent and coordinate sample collection.
 
+**Lacrosse Coach — Carmel Valley Falcons (Youth Program)**   *Feb 2022 – Present*  
+Organized 120+ practices and games, leading the team to a 30-10 record while prioritizing development and teamwork.  
+Built strong relationships with players, parents, and coaches, applying leadership and conflict-management skills to foster a positive culture.
 
 ---
 
 ## Coursework (Selected)
-Advanced Bioinformatics Lab (CSE 185) · Intro Bioinformatics Lab (BIMM 143) · Data Structures / OOP · Algorithms · Computer Organization · Molecular / Cell Biology · Structural Biochemistry · Applied Genomic Technologies · Biological Databases
+
+Advanced Bioinformatics Lab (CSE 185)  ·  Intro Bioinformatics Lab (BIMM 143)  ·  Data Structures / OOP  ·  Algorithms  ·  Computer Organization  ·  Molecular / Cell Biology  ·  Structural Biochemistry  ·  Applied Genomic Technologies  ·  Biological Databases
+
 
 ---
 
@@ -88,7 +94,7 @@ Advanced Bioinformatics Lab (CSE 185) · Intro Bioinformatics Lab (BIMM 143) · 
 ## Contact
 📧 [trevorredford@gmail.com](mailto:trevorredford@gmail.com)  
 📞 (720) 829-6302  
-🌐 [LinkedIn](https://www.linkedin.com/in/trevor-redford-416925231) · [GitHub](https://github.com/tredford1412) · [Website](https://tredford1412.github.io)
+🌐 [LinkedIn](https://www.linkedin.com/in/trevor-redford-416925231) · [GitHub](https://github.com/tredford1412) ·
 
 ---
 
