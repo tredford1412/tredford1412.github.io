@@ -7,6 +7,7 @@ title: Trevor Redford | UC San Diego Class of 2026
 
 [View the Project on GitHub](https://github.com/tredford1412/tredford1412.github.io) · [tredford1412/tredford1412.github.io](https://github.com/tredford1412/tredford1412.github.io)
 
+
 ---
  
 ## B.S. in Biology with Specialization in Bioinformatics | Minor in Computer Science
