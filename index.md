@@ -46,7 +46,7 @@ Motivated and detail-oriented Bioinformatics major at the top-ranked UC San Dieg
 **BIMM 143: Introductory Bioinformatics Lab [Find-A-Gene Project]**  
 *January – March 2025*  
 
-- Investigated the Argonaute-2 (AGO2) protein to analyze sequence homology across multiple species using BLAST, multiple sequence alignment, and phylogenetic trees. Visualized and compared structural models to assess conserved residues critical for RNA interference, integrating experimental context with computational findings.
+- Investigated the Argonaute-2 (AGO2) protein to analyze sequence homology across multiple species using BLAST, multiple sequence alignment, phylogenetic trees, heatmaps, and 3-D modeling. Visualized and compared structural models to assess conserved residues critical for RNA interference, integrating experimental context with computational findings.
 
 ---
 
