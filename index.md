@@ -36,17 +36,17 @@ Motivated and detail-oriented Bioinformatics major at the top-ranked UC San Dieg
 - Built mRNA secondary-structure prediction pipelines using EternaFold, EternaBench, Arnie, ViennaRNA, and RNAfold within Linux/Python.  
 - Streamlined folding-stability evaluation workflows that supported experimental R&D design.
 
-**BENG 183: Applied Genomic Technologies [Snakemake Workflow for MUSIC]**  
+**BENG 183: Applied Genomic Technologies [Snakemake Workflow for MUSIC](https://github.com/tredford1412/BENG183Paper_Group32/blob/main/Paper.md)**  
 *September – December 2024*  
 
 - Developed and implemented a Snakemake workflow for MUSIC, a bioinformatics tool used in Professor Zhong’s lab to analyze molecular interactions such as DNA–DNA, RNA–DNA, and RNA–RNA. Automated complex computational steps, modeled dependencies, and optimized reproducibility and scalability across datasets. Demonstrated how workflow management systems streamline and standardize large-scale genomic analyses.
 
 ---
 
-**BIMM 143: Introductory Bioinformatics Lab [Find-A-Gene Project]**  
+**BIMM 143: Introductory Bioinformatics Lab [Find-A-Gene Project](https://github.com/tredford1412/BIMM143/blob/main/CopyOfFindagene/Find%20A%20Gene%20Project%20Final.pdf)**  
 *January – March 2025*  
 
-- Investigated the Argonaute-2 (AGO2) protein to analyze sequence homology across multiple species using BLAST, multiple sequence alignment, phylogenetic trees, heatmaps, and 3-D modeling. Visualized and compared structural models to assess conserved residues critical for RNA interference, integrating experimental context with computational findings.
+- Investigated the Argonaute-2 (AGO2) protein to analyze sequence homology across multiple species using BLAST, multiple sequence alignment, phylogenetic trees, heatmaps, and 3-D models. Visualized and compared structural models to assess conserved residues critical for RNA interference, integrating experimental context with computational findings.
 
 ---
 
