@@ -77,7 +77,7 @@ Advanced Bioinformatics Lab (CSE 185) · Intro Bioinformatics Lab (BIMM 143) · 
 
 **President & Captain** | *UC San Diego Men’s Lacrosse Team* | *2023 – Present*  
 - Led the team as both Captain and President, managing operations, team logistics, and leadership development.
- 
+
  
 ---
 
