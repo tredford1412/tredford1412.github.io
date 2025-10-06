@@ -33,8 +33,8 @@ Motivated and detail-oriented Bioinformatics major at the top-ranked UC San Dieg
 - Developing a mobile version (iOS + Android) using Swift and JavaScript for the front end and Python for the back end.
 
 **mRNA Prediction Model — Arcturus Therapeutics**   *Jan 2025 – Mar 2025*  
-Built mRNA secondary-structure prediction pipelines using EternaFold, EternaBench, Arnie, ViennaRNA, and RNAfold within Linux/Python.  
-Streamlined folding-stability evaluation workflows that supported experimental R&D design.
+- Built mRNA secondary-structure prediction pipelines using EternaFold, EternaBench, Arnie, ViennaRNA, and RNAfold within Linux/Python.  
+- Streamlined folding-stability evaluation workflows that supported experimental R&D design.
 
 ---
 
