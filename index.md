@@ -36,6 +36,18 @@ Motivated and detail-oriented Bioinformatics major at the top-ranked UC San Dieg
 - Built mRNA secondary-structure prediction pipelines using EternaFold, EternaBench, Arnie, ViennaRNA, and RNAfold within Linux/Python.  
 - Streamlined folding-stability evaluation workflows that supported experimental R&D design.
 
+**BENG 183: Applied Genomic Technologies [Snakemake Workflow for MUSIC]**  
+*September – December 2024*  
+
+- Developed and implemented a Snakemake workflow for MUSIC, a bioinformatics tool used in Professor Zhong’s lab to analyze molecular interactions such as DNA–DNA, RNA–DNA, and RNA–RNA. Automated complex computational steps, modeled dependencies, and optimized reproducibility and scalability across datasets. Demonstrated how workflow management systems streamline and standardize large-scale genomic analyses.
+
+---
+
+**BIMM 143: Introductory Bioinformatics Lab [Find-A-Gene Project]**  
+*January – March 2025*  
+
+- Investigated the Argonaute-2 (AGO2) protein to analyze sequence homology across multiple species using BLAST, multiple sequence alignment, and phylogenetic trees. Visualized and compared structural models to assess conserved residues critical for RNA interference, integrating experimental context with computational findings.
+
 ---
 
 ## Experience
